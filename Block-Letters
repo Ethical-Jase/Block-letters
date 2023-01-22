@@ -1,0 +1,20 @@
+# Jason Kennett
+
+print("JJJJJ")
+print("  J  ")
+print("  J  ")
+print("  J  ")
+print("J J  ")
+print("J J  ")
+print(" JJ  ")
+
+last_inital = """
+K    K
+K   K
+K  K
+K K
+K  K
+K   K
+K    K
+"""
+print(last_inital)
